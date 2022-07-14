@@ -1,6 +1,6 @@
 {
-  "name": "play-series-animes-webstreaming-backend",
-  "private": true,
+  "name": "users-backend",
+  "private": false,
   "version": "1.0.0",
   "main": "index.js",
   "type": "commonjs",
